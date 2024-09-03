@@ -6,7 +6,7 @@ This app will get facebook and instgram and tiktok and whats app and twitter and
 <img src="graph.png"/>
 
 
-# WORK 
+#Design
  <pre>
 
      const mongoose = require('mongoose');
