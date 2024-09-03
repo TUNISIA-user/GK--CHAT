@@ -69,7 +69,7 @@ module.exports = {
     Notification,
     Session
 };
-
+const { User, Message, Friendship, Notification, Session } = require('../models');
 
      
  </pre>
