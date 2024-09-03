@@ -118,3 +118,10 @@ Message Retrieval: Loads previous messages when joining a chat room or private c
 
   
  </pre>
+    e.preventDefault()
+ const formData = new FormData(e.target)
+
+ const {username,email,password} = Object.fromEntries(formData)
+    toast.success("hello")
+    console.log(username)
+} get the data by name 
