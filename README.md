@@ -76,9 +76,9 @@ const { User, Message, Friendship, Notification, Session } = require('../models'
 
 
 
+ <pre>
 
-
- 1. User Authentication and Registration
+  #1. User Authentication and Registration
 Registration Page:
 
 Fields: Username, Email, Password
@@ -93,13 +93,14 @@ Logout:
 
 Button: Logout (visible when logged in)
 Functionality: Ends the user session and returns to the login page.
-2. Main Chat Interface
+#2. Main Chat Interface
 Chat Interface:
 User List: Displays online users or contacts.
 Chat Area: Shows messages from the selected chat or chat room.
 Message Input: Text input field to type messages.
 Send Button: Sends the message to the selected chat or chat room.
-3. Chat Rooms and Private Messaging
+
+#3. Chat Rooms and Private Messaging
 Chat Rooms:
 
 List of Rooms: Shows available chat rooms.
@@ -109,9 +110,11 @@ Private Messaging:
 
 User List: Allows selecting individual users for private conversations.
 Private Chat Interface: Similar to the main chat interface but specific to the selected user.
-4. Chat History
+
+#4. Chat History
 Chat History:
 Persistent Storage: Messages are stored in a database and loaded when the user revisits the chat or logs in.
 Message Retrieval: Loads previous messages when joining a chat room or private conversation.
 
-
+  
+ </pre>
