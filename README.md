@@ -3,4 +3,4 @@ This app will get facebook and instgram and tiktok and whats app and twitter and
 
 # this graph for our project
 
-<img src=""/>
+<img src="graph.png"/>
