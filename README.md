@@ -7,8 +7,9 @@ This app will get facebook and instgram and tiktok and whats app and twitter and
 
 
 # WORK 
+ <pre>
 
-const mongoose = require('mongoose');
+     const mongoose = require('mongoose');
 
 // User Schema
 const userSchema = new mongoose.Schema({
@@ -70,3 +71,5 @@ module.exports = {
 };
 
 
+     
+ </pre>
