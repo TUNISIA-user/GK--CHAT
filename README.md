@@ -2,7 +2,8 @@
 This app will get facebook and instgram and tiktok and whats app and twitter and snapchat and Bsky die : ) 🔥
 
 # this graph for our project
-
+      const progress = (snapshot.bytesTransferred / snapshot.totalBytes) * 100;
+   
 <img src="graph.png"/>
 
 
